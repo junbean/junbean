@@ -1,7 +1,11 @@
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=junbean%Dev%Space&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hello%20World%20🤗&fontSize=90)
 
-## Hi there 👋
+<!-- 문구 -->
+<p>안녕하세요, 꾸준히 성장하며 문제를 해결하는 개발자 윤준빈입니다.</p>
+
+
+
 
 <!--
 **junbean/junbean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
